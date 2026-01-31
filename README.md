@@ -169,6 +169,42 @@ Stealing the Declaration of Independence, NOT THE BEES-ing, Putting the Bunny Ba
 
 Hi Hungry I'm Dad-ing, Adjusting the Thermostat, Inspecting the Lawn, Checking the Grill, Just Resting My Eyes...
 
+### [Matthew McConaughey](themes/matthew-mcconaughey/)
+
+> "Alright, alright, alright."
+
+Alright Alright Alright-ing, Time Being a Flat Circle, Lincoln Commercial-ing, Just Keep Livin-ing, Going Through the Wormhole...
+
+### [Ric Flair](themes/ric-flair/)
+
+> "To be the man, you gotta beat the man! WOOO!"
+
+WOOO-ing, Stylin' and Profilin', Limousine Ridin', Jet Flyin', Locking in the Figure Four...
+
+### [The Rock](themes/the-rock/)
+
+> "IF YA SMELL... WHAT THE ROCK... IS COOKIN'!"
+
+Smelling What The Rock Is Cooking, Laying the Smackdown, Raising the People's Eyebrow, Dropping the People's Elbow, Checking Jabronis Into the Smackdown Hotel...
+
+### [Corporate Buzzwords](themes/corporate-buzzwords/)
+
+> "Let's circle back and synergize our action items."
+
+Synergizing, Circling Back, Taking This Offline, Leveraging Synergies, Moving the Needle...
+
+### [Trump Mockery](themes/trump-mockery/)
+
+> "I have the best words. Many people are saying."
+
+Having the Best Words, Many People Are Saying-ing, Covfefe-ing, Staring at the Eclipse, Tremendous-ing Bigly...
+
+### [Minecraft](themes/minecraft/)
+
+> "That's a nice everything you have there..."
+
+Punching Trees, Mining Diamonds, Avoiding Creepers, Surviving the First Night, Crafting Tables...
+
 ## Creating New Themes
 
 This repo includes a Claude Code skill for generating new themes. Copy `skills/verb-theme-creator/SKILL.md` to your `~/.claude/skills/` directory, then ask Claude to create a new verb theme.
