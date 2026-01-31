@@ -41,6 +41,15 @@ Demanding English Motherfucker, Tasting Big Kahuna Burgers, Striking with Great 
 
 Running Wild Brother, Dropping Leg Drops Brother, Hulking Up Brother, Slamming Giants Brother, Whatcha Gonna Do When Hulkamania Runs Wild on You Brother...
 
+## Creating New Themes
+
+This repo includes a Claude Code skill for generating new themes. Copy `skills/verb-theme-creator/SKILL.md` to your `~/.claude/skills/` directory, then ask Claude to create a new verb theme.
+
+The skill guides you through:
+- Brainstorming verbs around your theme
+- Converting quotes/references into action verb format
+- Generating the required file structure
+
 ## Contributing
 
 Got a theme idea? PRs welcome! Each theme needs:
