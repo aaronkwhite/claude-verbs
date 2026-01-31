@@ -193,7 +193,7 @@ Smelling What The Rock Is Cooking, Laying the Smackdown, Raising the People's Ey
 
 Synergizing, Circling Back, Taking This Offline, Leveraging Synergies, Moving the Needle...
 
-### [Trump Mockery](themes/trump-mockery/)
+### [The Donald](themes/the-donald/)
 
 > "I have the best words. Many people are saying."
 
