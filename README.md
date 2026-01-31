@@ -1,4 +1,4 @@
-# Jackson Verbs
+# Claude Verbs
 
 Custom verb themes for Claude Code's status line. Make your AI think with style.
 
