@@ -2,7 +2,7 @@
 
 ![Claude Verbs](https://github.com/user-attachments/assets/91f27d4a-0a62-4a73-85c9-2989fa4d6123)
 
-Custom verb themes for Claude Code's status line. Make your AI think with style.
+**35 themes** | Custom verb themes for Claude Code's status line. Make your AI think with style.
 
 ## What's This?
 
@@ -204,6 +204,36 @@ Having the Best Words, Many People Are Saying-ing, Covfefe-ing, Staring at the E
 > "That's a nice everything you have there..."
 
 Punching Trees, Mining Diamonds, Avoiding Creepers, Surviving the First Night, Crafting Tables...
+
+### [Marvin Gaye](themes/marvin-gaye/)
+
+> "What's going on?"
+
+Hearing It Through the Grapevine, Getting It On, Letting Sexual Healing Begin, What's Going On-ing, Inner City Blues Making Me Wanna Holler...
+
+### [Al Green](themes/al-green/)
+
+> "Let's stay together."
+
+Love and Happiness Spreading, Tired of Being Alone Processing, Take Me to the River Baptizing, Reverend Al Sermonizing, Simply Beautiful Appreciating...
+
+### [Ice-T](themes/ice-t/)
+
+> "Don't hate the player, hate the game."
+
+O.G.-ing Original Gangster Style, Investigating Special Victims, Fin Tutuola Badge Flashing, Keeping It Real Since '87, Law & Order SVU Detecting...
+
+### [David Caruso](themes/david-caruso/)
+
+> *puts on sunglasses* "YEEEAAAHHH!"
+
+Putting on the Sunglasses, YEEEAAAHHH-ing, Delivering a One-Liner, Pausing for Effect, Won't Get Fooled Again Queuing...
+
+### [Bill Brasky](themes/bill-brasky/)
+
+> "TO BILL BRASKY!"
+
+TO BILL BRASKY Toasting, Bench Pressing Volkswagens, Using Live Rattlesnakes as Condoms, Making the Pope Cry, Being a Son of a Bitch and Loving Him...
 
 ## Creating New Themes
 
