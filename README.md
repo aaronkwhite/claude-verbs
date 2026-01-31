@@ -27,29 +27,29 @@ Or use `"mode": "append"` to mix with the defaults.
 
 ## Themes
 
-### [Star Wars](themes/star-wars/)
+### [Al Green](themes/al-green/)
 
-> A long time ago in a galaxy far, far away... Claude was processing.
+> "Let's stay together."
 
-Channeling the Force, Making the Kessel Run, Executing Order 66, Taking the High Ground, This is the Waying...
-
-### [Samuel L. Jackson](themes/samuel-l-jackson/)
-
-> "English, motherfucker, do you speak it?"
-
-Demanding English Motherfucker, Tasting Big Kahuna Burgers, Striking with Great Vengeance, Staring Motherfuckerly, Not Granting Rank of Master...
-
-### [Hulk Hogan](themes/hulk-hogan/)
-
-> "Whatcha gonna do when Hulkamania runs wild on you?!"
-
-Running Wild Brother, Dropping Leg Drops Brother, Hulking Up Brother, Slamming Giants Brother, Whatcha Gonna Do When Hulkamania Runs Wild on You Brother...
+Love and Happiness Spreading, Tired of Being Alone Processing, Take Me to the River Baptizing, Reverend Al Sermonizing, Simply Beautiful Appreciating...
 
 ### [Arnold Schwarzenegger](themes/arnold-schwarzenegger/)
 
 > "I'll be back."
 
 Getting to the Chopper, Being Back, Considering It a Divorce, Letting Off Some Steam, Hasta La Vista-ing Baby...
+
+### [Arrested Development](themes/arrested-development/)
+
+> "I've made a huge mistake."
+
+Making a Huge Mistake, Blue-ing Myself, Doing Chicken Impressions, Committing Light Treason, Never Nude-ing...
+
+### [Bill Brasky](themes/bill-brasky/)
+
+> "TO BILL BRASKY!"
+
+TO BILL BRASKY Toasting, Bench Pressing Volkswagens, Using Live Rattlesnakes as Condoms, Making the Pope Cry, Being a Son of a Bitch and Loving Him...
 
 ### [Bob Ross](themes/bob-ross/)
 
@@ -63,47 +63,47 @@ Beating the Devil Out of It, Adding Happy Little Trees, Making Happy Accidents, 
 
 Saying My Name, Knocking, Applying Science, Being the Danger, Cooking...
 
-### [The Big Lebowski](themes/big-lebowski/)
+### [Christopher Walken](themes/christopher-walken/)
 
-> "The Dude abides."
+> "I gotta have more cowbell!"
 
-Abiding, Marking It Zero, Entering a World of Pain, Tying the Room Together, Not Rolling on Shabbos...
+Needing More Cowbell, Pausing... Dramatically, Hiding Watches in Uncomfortable Places, Weapon of Choosing, Dancing in Hotel Hallways...
 
-### [Lord of the Rings](themes/lord-of-the-rings/)
+### [Corporate Buzzwords](themes/corporate-buzzwords/)
 
-> "Even the smallest person can change the course of the future."
+> "Let's circle back and synergize our action items."
 
-Carrying the Ring, Speaking Friend and Entering, Not Simply Walking into Mordor, Keeping It Secret Keeping It Safe, Lighting the Beacons...
+Synergizing, Circling Back, Taking This Offline, Leveraging Synergies, Moving the Needle...
 
-### [Pirate](themes/pirate/)
+### [Dad Jokes](themes/dad-jokes/)
 
-> "Yo ho ho and a bottle of rum!"
+> "I'm not sleeping, I'm just resting my eyes."
 
-Swabbing the Deck, Seeking Buried Treasure, Hoisting the Jolly Roger, Searching for the Black Pearl, Shivering Timbers...
+Hi Hungry I'm Dad-ing, Adjusting the Thermostat, Inspecting the Lawn, Checking the Grill, Just Resting My Eyes...
 
-### [Noir Detective](themes/noir-detective/)
+### [David Caruso](themes/david-caruso/)
 
-> "She walked in like trouble on two legs."
+> *puts on sunglasses* "YEEEAAAHHH!"
 
-Following the Dame, Pouring Another Whiskey, Narrating Internal Monologue, Watching Rain Hit the Window, Lighting Another Cigarette...
+Putting on the Sunglasses, YEEEAAAHHH-ing, Delivering a One-Liner, Pausing for Effect, Won't Get Fooled Again Queuing...
 
-### [The Office](themes/the-office/)
+### [Die Hard](themes/die-hard/)
 
-> "That's what she said."
+> "Yippee-ki-yay, motherfucker."
 
-Declaring Bankruptcy, That's What She Said-ing, Putting Stuff in Jello, Starting a Fire Drill, Making Chili...
+Yippee Ki Yay-ing, Crawling Through Vents, Walking on Broken Glass, Ho Ho Ho-ing, Welcoming to the Party...
 
-### [Seinfeld](themes/seinfeld/)
+### [Hulk Hogan](themes/hulk-hogan/)
 
-> "No soup for you!"
+> "Whatcha gonna do when Hulkamania runs wild on you?!"
 
-Yada Yada-ing, Experiencing Shrinkage, Being Master of Domain, Double Dipping, Serenity Now-ing...
+Running Wild Brother, Dropping Leg Drops Brother, Hulking Up Brother, Slamming Giants Brother, Whatcha Gonna Do When Hulkamania Runs Wild on You Brother...
 
-### [Parks and Rec](themes/parks-and-rec/)
+### [Ice-T](themes/ice-t/)
 
-> "Treat yo self!"
+> "Don't hate the player, hate the game."
 
-Treating Myself, Eating All the Bacon and Eggs, Literally the Best-ing, Waffling at JJ's Diner, Being a Beautiful Tropical Fish...
+O.G.-ing Original Gangster Style, Investigating Special Victims, Fin Tutuola Badge Flashing, Keeping It Real Since '87, Law & Order SVU Detecting...
 
 ### [It's Always Sunny](themes/always-sunny/)
 
@@ -111,11 +111,35 @@ Treating Myself, Eating All the Bacon and Eggs, Literally the Best-ing, Waffling
 
 Implicating, Demonstrating Value, Offering Eggs in Trying Times, Becoming a Golden God, Wildcarding...
 
-### [Arrested Development](themes/arrested-development/)
+### [Jeff Goldblum](themes/jeff-goldblum/)
 
-> "I've made a huge mistake."
+> "Life, uh... finds a way."
 
-Making a Huge Mistake, Blue-ing Myself, Doing Chicken Impressions, Committing Light Treason, Never Nude-ing...
+Life Uh Finding a Way, Well There It Is-ing, Must Go Faster-ing, Chaos Theory-ing, Being Afraid Very Afraid...
+
+### [Lord of the Rings](themes/lord-of-the-rings/)
+
+> "Even the smallest person can change the course of the future."
+
+Carrying the Ring, Speaking Friend and Entering, Not Simply Walking into Mordor, Keeping It Secret Keeping It Safe, Lighting the Beacons...
+
+### [Marvin Gaye](themes/marvin-gaye/)
+
+> "What's going on?"
+
+Hearing It Through the Grapevine, Getting It On, Letting Sexual Healing Begin, What's Going On-ing, Inner City Blues Making Me Wanna Holler...
+
+### [Matthew McConaughey](themes/matthew-mcconaughey/)
+
+> "Alright, alright, alright."
+
+Alright Alright Alright-ing, Time Being a Flat Circle, Lincoln Commercial-ing, Just Keep Livin-ing, Going Through the Wormhole...
+
+### [Minecraft](themes/minecraft/)
+
+> "That's a nice everything you have there..."
+
+Punching Trees, Mining Diamonds, Avoiding Creepers, Surviving the First Night, Crafting Tables...
 
 ### [Mob Classics](themes/mob-classics/)
 
@@ -129,53 +153,29 @@ Getting the Papers, Being a Funny Guy, Forgetting About It, Visiting the Bing, M
 
 Fetching Holy Grails, Ni-ing, Running Away, Getting Better, Expecting the Spanish Inquisition...
 
-### [Snoop & Dre](themes/snoop-and-dre/)
-
-> "Still got love for the streets."
-
-Dropping It Like It's Hot, Rolling Down the Street, Fo Shizzling, Keeping Forgetting About Dre, Still D.R.E.-ing...
-
-### [Shrek](themes/shrek/)
-
-> "Ogres have layers."
-
-Getting Out of My Swamp, Checking Layers, Making Waffles, Being All Star-ing, Believing in Ogres...
-
-### [Die Hard](themes/die-hard/)
-
-> "Yippee-ki-yay, motherfucker."
-
-Yippee Ki Yay-ing, Crawling Through Vents, Walking on Broken Glass, Ho Ho Ho-ing, Welcoming to the Party...
-
-### [Christopher Walken](themes/christopher-walken/)
-
-> "I gotta have more cowbell!"
-
-Needing More Cowbell, Pausing... Dramatically, Hiding Watches in Uncomfortable Places, Weapon of Choosing, Dancing in Hotel Hallways...
-
-### [Jeff Goldblum](themes/jeff-goldblum/)
-
-> "Life, uh... finds a way."
-
-Life Uh Finding a Way, Well There It Is-ing, Must Go Faster-ing, Chaos Theory-ing, Being Afraid Very Afraid...
-
 ### [Nicolas Cage](themes/nicolas-cage/)
 
 > "I'm gonna steal the Declaration of Independence."
 
 Stealing the Declaration of Independence, NOT THE BEES-ing, Putting the Bunny Back in the Box, Taking His Face... Off, Going Full Cage...
 
-### [Dad Jokes](themes/dad-jokes/)
+### [Noir Detective](themes/noir-detective/)
 
-> "I'm not sleeping, I'm just resting my eyes."
+> "She walked in like trouble on two legs."
 
-Hi Hungry I'm Dad-ing, Adjusting the Thermostat, Inspecting the Lawn, Checking the Grill, Just Resting My Eyes...
+Following the Dame, Pouring Another Whiskey, Narrating Internal Monologue, Watching Rain Hit the Window, Lighting Another Cigarette...
 
-### [Matthew McConaughey](themes/matthew-mcconaughey/)
+### [Parks and Rec](themes/parks-and-rec/)
 
-> "Alright, alright, alright."
+> "Treat yo self!"
 
-Alright Alright Alright-ing, Time Being a Flat Circle, Lincoln Commercial-ing, Just Keep Livin-ing, Going Through the Wormhole...
+Treating Myself, Eating All the Bacon and Eggs, Literally the Best-ing, Waffling at JJ's Diner, Being a Beautiful Tropical Fish...
+
+### [Pirate](themes/pirate/)
+
+> "Yo ho ho and a bottle of rum!"
+
+Swabbing the Deck, Seeking Buried Treasure, Hoisting the Jolly Roger, Searching for the Black Pearl, Shivering Timbers...
 
 ### [Ric Flair](themes/ric-flair/)
 
@@ -183,17 +183,41 @@ Alright Alright Alright-ing, Time Being a Flat Circle, Lincoln Commercial-ing, J
 
 WOOO-ing, Stylin' and Profilin', Limousine Ridin', Jet Flyin', Locking in the Figure Four...
 
-### [The Rock](themes/the-rock/)
+### [Samuel L. Jackson](themes/samuel-l-jackson/)
 
-> "IF YA SMELL... WHAT THE ROCK... IS COOKIN'!"
+> "English, motherfucker, do you speak it?"
 
-Smelling What The Rock Is Cooking, Laying the Smackdown, Raising the People's Eyebrow, Dropping the People's Elbow, Checking Jabronis Into the Smackdown Hotel...
+Demanding English Motherfucker, Tasting Big Kahuna Burgers, Striking with Great Vengeance, Staring Motherfuckerly, Not Granting Rank of Master...
 
-### [Corporate Buzzwords](themes/corporate-buzzwords/)
+### [Seinfeld](themes/seinfeld/)
 
-> "Let's circle back and synergize our action items."
+> "No soup for you!"
 
-Synergizing, Circling Back, Taking This Offline, Leveraging Synergies, Moving the Needle...
+Yada Yada-ing, Experiencing Shrinkage, Being Master of Domain, Double Dipping, Serenity Now-ing...
+
+### [Shrek](themes/shrek/)
+
+> "Ogres have layers."
+
+Getting Out of My Swamp, Checking Layers, Making Waffles, Being All Star-ing, Believing in Ogres...
+
+### [Snoop & Dre](themes/snoop-and-dre/)
+
+> "Still got love for the streets."
+
+Dropping It Like It's Hot, Rolling Down the Street, Fo Shizzling, Keeping Forgetting About Dre, Still D.R.E.-ing...
+
+### [Star Wars](themes/star-wars/)
+
+> A long time ago in a galaxy far, far away... Claude was processing.
+
+Channeling the Force, Making the Kessel Run, Executing Order 66, Taking the High Ground, This is the Waying...
+
+### [The Big Lebowski](themes/big-lebowski/)
+
+> "The Dude abides."
+
+Abiding, Marking It Zero, Entering a World of Pain, Tying the Room Together, Not Rolling on Shabbos...
 
 ### [The Donald](themes/the-donald/)
 
@@ -201,41 +225,17 @@ Synergizing, Circling Back, Taking This Offline, Leveraging Synergies, Moving th
 
 Having the Best Words, Many People Are Saying-ing, Covfefe-ing, Staring at the Eclipse, Tremendous-ing Bigly...
 
-### [Minecraft](themes/minecraft/)
+### [The Office](themes/the-office/)
 
-> "That's a nice everything you have there..."
+> "That's what she said."
 
-Punching Trees, Mining Diamonds, Avoiding Creepers, Surviving the First Night, Crafting Tables...
+Declaring Bankruptcy, That's What She Said-ing, Putting Stuff in Jello, Starting a Fire Drill, Making Chili...
 
-### [Marvin Gaye](themes/marvin-gaye/)
+### [The Rock](themes/the-rock/)
 
-> "What's going on?"
+> "IF YA SMELL... WHAT THE ROCK... IS COOKIN'!"
 
-Hearing It Through the Grapevine, Getting It On, Letting Sexual Healing Begin, What's Going On-ing, Inner City Blues Making Me Wanna Holler...
-
-### [Al Green](themes/al-green/)
-
-> "Let's stay together."
-
-Love and Happiness Spreading, Tired of Being Alone Processing, Take Me to the River Baptizing, Reverend Al Sermonizing, Simply Beautiful Appreciating...
-
-### [Ice-T](themes/ice-t/)
-
-> "Don't hate the player, hate the game."
-
-O.G.-ing Original Gangster Style, Investigating Special Victims, Fin Tutuola Badge Flashing, Keeping It Real Since '87, Law & Order SVU Detecting...
-
-### [David Caruso](themes/david-caruso/)
-
-> *puts on sunglasses* "YEEEAAAHHH!"
-
-Putting on the Sunglasses, YEEEAAAHHH-ing, Delivering a One-Liner, Pausing for Effect, Won't Get Fooled Again Queuing...
-
-### [Bill Brasky](themes/bill-brasky/)
-
-> "TO BILL BRASKY!"
-
-TO BILL BRASKY Toasting, Bench Pressing Volkswagens, Using Live Rattlesnakes as Condoms, Making the Pope Cry, Being a Son of a Bitch and Loving Him...
+Smelling What The Rock Is Cooking, Laying the Smackdown, Raising the People's Eyebrow, Dropping the People's Elbow, Checking Jabronis Into the Smackdown Hotel...
 
 ## Creating New Themes
 
