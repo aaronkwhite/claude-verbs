@@ -4,6 +4,8 @@
 
 **35 themes** | Custom verb themes for Claude Code's status line. Make your AI think with style.
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/aaronkwhite)
+
 ## What's This?
 
 Claude Code shows verbs like "Thinking..." while it works. This repo has themed verb packs you can drop into your config for a more entertaining experience.
