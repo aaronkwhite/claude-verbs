@@ -1,5 +1,7 @@
 # Claude Verbs
 
+![Claude Verbs](https://github.com/user-attachments/assets/91f27d4a-0a62-4a73-85c9-2989fa4d6123)
+
 Custom verb themes for Claude Code's status line. Make your AI think with style.
 
 ## What's This?
