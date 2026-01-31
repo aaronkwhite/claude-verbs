@@ -139,6 +139,36 @@ Dropping It Like It's Hot, Rolling Down the Street, Fo Shizzling, Keeping Forget
 
 Getting Out of My Swamp, Checking Layers, Making Waffles, Being All Star-ing, Believing in Ogres...
 
+### [Die Hard](themes/die-hard/)
+
+> "Yippee-ki-yay, motherfucker."
+
+Yippee Ki Yay-ing, Crawling Through Vents, Walking on Broken Glass, Ho Ho Ho-ing, Welcoming to the Party...
+
+### [Christopher Walken](themes/christopher-walken/)
+
+> "I gotta have more cowbell!"
+
+Needing More Cowbell, Pausing... Dramatically, Hiding Watches in Uncomfortable Places, Weapon of Choosing, Dancing in Hotel Hallways...
+
+### [Jeff Goldblum](themes/jeff-goldblum/)
+
+> "Life, uh... finds a way."
+
+Life Uh Finding a Way, Well There It Is-ing, Must Go Faster-ing, Chaos Theory-ing, Being Afraid Very Afraid...
+
+### [Nicolas Cage](themes/nicolas-cage/)
+
+> "I'm gonna steal the Declaration of Independence."
+
+Stealing the Declaration of Independence, NOT THE BEES-ing, Putting the Bunny Back in the Box, Taking His Face... Off, Going Full Cage...
+
+### [Dad Jokes](themes/dad-jokes/)
+
+> "I'm not sleeping, I'm just resting my eyes."
+
+Hi Hungry I'm Dad-ing, Adjusting the Thermostat, Inspecting the Lawn, Checking the Grill, Just Resting My Eyes...
+
 ## Creating New Themes
 
 This repo includes a Claude Code skill for generating new themes. Copy `skills/verb-theme-creator/SKILL.md` to your `~/.claude/skills/` directory, then ask Claude to create a new verb theme.
